@@ -14,7 +14,7 @@ constantly==15.1.0
 cryptography==2.3.1
 cycler==0.10.0
 Cython==0.29.3
-dask==1.1.0
+dask==2021.10.0
 decorator==4.3.0
 distributed==1.25.2
 docopt==0.6.2
